@@ -17,4 +17,9 @@ https://coa.immigration.gov.tw/coa-frontend/overseas-foreign-china
 4. 20歳未満の方保護者の同意書(ダウンロード)が必要です。
 5. 電子写真データ
 
-test
+## 証明写真
+下記アメリカビザ申請サイトにて、写真が合格するか確認可能です。  
+https://ceac.state.gov/genniv/  
+This visa application will ask you to upload a digital photo of yourself.  
+Test Photo | Photo Standard Guide
+上記の「Test Photo」を選択し、写真の確認を行う。
