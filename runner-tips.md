@@ -1,6 +1,9 @@
 Runner Tips
 ===
 
+## フルマラソンに挑戦！
+https://www.konicaminolta.jp/runpro/running/full/
+
 ## 有氧运动 无氧运动
 [有氧运动和无氧运动有哪些区别](https://www.zhihu.com/question/21227046)  
 
