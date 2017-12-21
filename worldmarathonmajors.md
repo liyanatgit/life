@@ -5,6 +5,18 @@ https://www.worldmarathonmajors.com/
 
 世界马拉松大满贯（World Marathon Majors）是由六个全世界规模最大、最知名的马拉松赛事构成的系列赛，包括：东京马拉松、波士顿马拉松、伦敦马拉松、柏林马拉松、芝加哥马拉松以及纽约马拉松。
 
+# 十年計画
+2027年まで、World Marathon Majorsの六大マラソンを制覇したい。  
+```
+BQ:
+現在
+45-49	      3hrs 25min 00sec	3hrs 55min 00sec
+2021-04から
+50-54	      3hrs 30min 00sec	4hrs 00min 00sec
+2026-04まで
+55-59	      3hrs 40min 00sec	4hrs 10min 00sec
+```
+
 
 # 東京マラソン
 http://www.marathon.tokyo/
