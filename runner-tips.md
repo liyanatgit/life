@@ -89,3 +89,10 @@ https://www.toutiao.com/i6495505711865266702/
 4:40   +23:00    +47:46   +1:45:57    3:39:42
 4:48    24:00     49:51    1:50:34    3:48:57
 5:00    25:00     51:56    1:55:11   +3:58:08
+
+## Jack Daniels  Daniels’ Running Formula
++ http://runsmartproject.com/
++ http://www.sc-runner.com/2013/10/jack-daniels-running-calculator.html
++ http://www.sc-runner.com/2013/08/jack-daniels-worked-with-nasa-scientist.html youtubeあり
++ https://www.runnersworld.com/workouts/threshold-training-finding-your-vdot?page=2   
+  Threshold Training: Finding Your VDOT
