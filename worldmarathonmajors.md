@@ -19,7 +19,8 @@ BQ:
 
 
 # 東京マラソン
-http://www.marathon.tokyo/
++ [公式サイト](http://www.marathon.tokyo/)
+
 ## Registration
 + Race Day: 2018-2-25(日)
 + Registration date: 2017-8-1 .. 2017-8-31 (抽選)
@@ -30,7 +31,7 @@ http://www.marathon.tokyo/
 
 
 # 波士顿马拉松
-http://www.baa.org/
++ [公式サイト](http://www.baa.org/)
 
 ## Date
 + Race Day:  2019-04-15(Monday)  
@@ -72,9 +73,12 @@ AGE GROUP	  MEN	              WOMEN
 80 and over	4hrs 55min 00sec	5hrs 25min 00sec
 ```
 
+## Reference
++[108跑步故事|王国祥：风雨交加的朝圣之旅](https://mp.weixin.qq.com/s/E-yYaga5eK8OxQmVw7bubA)
+
 
 # 伦敦马拉松
-https://www.virginmoneylondonmarathon.com/en-gb/
++ [公式サイト](https://www.virginmoneylondonmarathon.com/en-gb/)
 
 ## Date  
 + Race Day: 2018-04-22(SUN)
@@ -110,7 +114,7 @@ Entry Fees
 + Overseas entry :   £80
 
 # 柏林马拉松
-https://www.bmw-berlin-marathon.com/en/
++ [公式サイト](https://www.bmw-berlin-marathon.com/en/)
 
 ## Date & Fees
 + Race Day: 2018-9-16(SUN)
@@ -132,7 +136,7 @@ Age	    Men     	Women
 
 
 # 芝加哥马拉松
-https://www.chicagomarathon.com/
++ [公式サイト](https://www.chicagomarathon.com/)
 
 ## Date (2018年の場合)
 + Race Day:  2018-10-07(SUN)
@@ -157,7 +161,7 @@ You will be asked to provide credit card information as a part of the applicatio
 
 
 # 纽约马拉松
-https://www.tcsnycmarathon.org/
++ [公式サイト](https://www.tcsnycmarathon.org/)
 
 ## Date  
 + Race Day: 2018-11-04(SUN)
@@ -172,4 +176,4 @@ Entry Fees
 + Non-U.S. Residents: US $358
 
 ## Reference
-+ http://yujia.hxwk.org/2017/11/21/%E4%BA%8E%E7%8F%88-%EF%BC%9A-%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%A9%AC%E6%8B%89%E6%9D%BE-2017%E5%B9%B4%E7%BA%BD%E7%BA%A6%E9%A9%AC%E6%8B%89%E6%9D%BE/
++[于珈 ： 我的第二次马拉松 — 2017年纽约马拉松](http://yujia.hxwk.org/2017/11/21/%E4%BA%8E%E7%8F%88-%EF%BC%9A-%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%A9%AC%E6%8B%89%E6%9D%BE-2017%E5%B9%B4%E7%BA%BD%E7%BA%A6%E9%A9%AC%E6%8B%89%E6%9D%BE/)
