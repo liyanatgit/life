@@ -2,7 +2,6 @@ visa tips
 ===
 
 # 台湾 Chinese Taipei
-
 旅居海外大陸地區人民申請來臺觀光は、
 2017/2/8より、オンライン申請となる。  
 http://www.taiwanembassy.org/jposa_ja/post/9185.html
