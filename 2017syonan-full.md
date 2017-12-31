@@ -23,7 +23,7 @@
 八点前到达会场，有3万多选手参加的市民马拉松，人群不断聚集的盛况，仿佛即将开始一个嘉年华。
 
 合影
-![group](https://liyanatgit.github.io/life/assets/images/201712FM/group.jpg)
+![group](./assets/images/201712FM/group.jpg)
 
 ### 1.2 集合
 
