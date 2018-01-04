@@ -29,6 +29,18 @@ BQ:
 +	海外	12,800円
 
 
+## COST
++ 自由行  
+概算费用：700 RMB
+  + 报名费:624 RMB
+  + 机票: 0 RMB  
+  + 酒店:0 RMB
+  + 杂费:0 RMB
+
++ 咕咚报价
+  + 2018  慈善报名费 10500 RMB(JPY 180000)。加价率 16.7
+
+
 # 波士顿马拉松
 + [公式サイト](http://www.baa.org/)
 
@@ -55,6 +67,20 @@ The registration fee for the 2018 Boston Marathon is
 + $185.00 (USD) for U.S. residents
 + $250.00 (USD) for international residents.
 This fee is non-refundable, non-transferrable, and may not be deferred to another year.
+
+## COST
++ 自由行  
+4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
+概算费用：xxxxx RMB
+  + 报名费:1624RMB
+  + 机票: xxxRMB（xxx） 　ANA特典：xxxRMB + xxxMile  
+  + 酒店:3000RMB
+  + 杂费:2000RMB
+
+
++ 咕咚报价
+  + 2018  46800RMB/双人间  不含机票及杂费  
+        4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 43800RMB($6700)。 加价率 26.7
 
 ## BQ
 ```
@@ -112,6 +138,22 @@ Entry Fees
 + UK standard entry: £39
 + Overseas entry :   £80
 
+
+## COST
++ 自由行  
+4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
+概算费用：xxxxx RMB
+  + 报名费:704RMB
+  + 机票: xxxRMB（xxx） 　ANA特典：xxxRMB + xxxMile  
+  + 酒店:3000RMB
+  + 杂费:2000RMB
+
+
++ 咕咚报价
+  + 2018  24888RMB/双人间  不含机票及杂费  
+        4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 21088RMB(£2400)。加价率 30
+
+
 # 柏林马拉松
 + [公式サイト](https://www.bmw-berlin-marathon.com/en/)
 
@@ -132,6 +174,20 @@ Age	    Men     	Women
 45-59	sub 2:55	sub 3:20
 60+		sub 3:25	sub 4:10
 ```
+
+## COST
++ 自由行  
+4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
+概算费用：10500 RMB
+  + 报名费:844RMB
+  + 机票: 5250RMB（Russia） 　ANA特典：2251RMB + 60000Mile  
+  + 酒店:2500RMB
+  + 杂费:2000RMB
+
+
++ 咕咚报价
+  + 2018  5999RMB/双人间  不含机票及杂费  
+        4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 1000RMB(€128)。加价率 1.19
 
 
 # 芝加哥马拉松
@@ -158,6 +214,19 @@ Grant Park, Chicago
 + Non-U.S. residents: $220 (USD)
 You will be asked to provide credit card information as a part of the application process. Your credit card will be charged when and if your application is approved or selected through drawing.
 
+## COST
++ 自由行  
+4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
+概算费用：xxxxx RMB
+  + 报名费:1430RMB
+  + 机票: xxxRMB（xx） 　ANA特典：xxxxRMB + xxxxMile  
+  + 酒店:3000RMB
+  + 杂费:2000RMB
+
+
++ 咕咚报价
+    + 2018  10999RMB/双人间  不含机票及杂费  
+      4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 4850RMB($750)。加价率 3.4
 
 # 纽约马拉松
 + [公式サイト](https://www.tcsnycmarathon.org/)
@@ -174,5 +243,34 @@ Entry Fees
   Non-Members:   US $295
 + Non-U.S. Residents: US $358
 
+## COST
++ 自由行  
+4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
+概算费用： 11800 RMB
+  + 报名费:2326RMB
+  + 机票: 4500RMB（国航） 　ANA特典：1300RMB + 5000Mile  
+  + 酒店:3000RMB
+  + 杂费:2000RMB
+
+
++ 咕咚报价
+  + 2018  12999RMB/双人间  不含机票及杂费  
+    4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 6000RMB($920)。加价率 2.57
+
+
 ## Reference
-+[于珈 ： 我的第二次马拉松 — 2017年纽约马拉松](http://yujia.hxwk.org/2017/11/21/%E4%BA%8E%E7%8F%88-%EF%BC%9A-%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%A9%AC%E6%8B%89%E6%9D%BE-2017%E5%B9%B4%E7%BA%BD%E7%BA%A6%E9%A9%AC%E6%8B%89%E6%9D%BE/)
++[于珈 ： 我的第二次马拉松 — 2017年纽约马拉松](http://yujia.hxwk.org/2017/11/21/%E4%BA%8E%E7%8F%88-%EF%BC%9A-%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%A9%AC%E6%8B%89%E6%9D%BE-2017%E5%B9%B4%E7%BA%BD%E7%BA%A6%E9%A9%AC%E6%8B%89%E6%9D%BE
+
+
+# 六大马慈善名额
+
+六大马慈善名额的加价倍率比较，参考咕咚2018年的线下赛事报名费折算价格。
+
+| WMM Name| 2018 Run-Day | Entry Fee | Codoon Conversion Fee| Ratio|
+|:---|:---|:---|:---|:---|
+| Tokyo Marathon| 2-25(SUN) | JPY 10800 | JPY 180000| 16.7|
+| Boston Marathon| 4-16(MON) | USD 250 | USD 6700| 26.7|
+| Virgin Money London Marathon| 4-22(SUN) | GBP 80 | GBP 2400| 30|
+| BMW-BERLIN MARATHON| 9-16(SUN) | EUR 108 | EUR 128| 1.19|
+| Bank of America Chicago Marathon| 10-17(SUN) | USD 220 | USD 750| 3.4|
+| TCS New York City Marathon| 11-4(SUN) | USD 358 | USD 920| 2.57|
