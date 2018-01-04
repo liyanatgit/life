@@ -266,7 +266,7 @@ Entry Fees
 
 六大马慈善名额的加价倍率比较，参考咕咚2018年的线下赛事报名费折算价格。
 
-| WMM Name| 2018 Run-Day | Entry Fee | Codoon Conversion Fee| Ratio|
+| WMM Name| 2018 Race-Day | Entry Fee | Codoon Conversion Fee| Ratio|
 |:---|:---|:---|:---|:---|
 | Tokyo Marathon| 2-25(SUN) | JPY 10800 | JPY 180000| 16.7|
 | Boston Marathon| 4-16(MON) | USD 250 | USD 6700| 26.7|
