@@ -7,13 +7,17 @@ http://center4gaming.org/
 ### 训练计划
 + 若您的跑力已滿40未達50，會安排破四訓練計畫給您，建議至少需安排十五週以上的訓練時間
  - 强度区间
-  + E1  Easy Run 輕鬆跑 有氧耐力         59-74%    25-30%
-  + M2  Marathon Run 馬拉松配速  75-82%    15-20%     
-  + T3  Threshold 乳酸閾值       83-88%    10%
-  + A4  anaerobic 无氧耐力
-  + I5　Interval　Vo2MAX間歇訓練 95-100%    8%
-  + R6  Repitition 速度 無氧反覆訓練  105-120%   5% <2min
+   + E1  Easy Run 輕鬆跑 有氧耐力         59-74%    25-30%
+   + M2  Marathon Run 馬拉松配速  74-84%    15-20%     
+   + T3  Threshold 乳酸閾值       84-88%    10%
+   + A4  anaerobic 无氧耐力       88-95%
+   + I5　Interval　最大耗氧 Vo2MAX間歇訓練 95-100%    8%
+   + R6  Repitition 爆发力与速度 無氧反覆訓練  105-120%   5% <2min
 http://tw.running.biji.co/index.php?q=news&act=info&id=5643
+
+
++ 快步跑（ST: Stride） 消除E配速與LSD的副作用。重点是「步頻」，再來才是腳掌上拉的「幅度」，如果前兩項都能做到再來才要求「速度」。  (15sec ST + 45sec rest.) * 6-8
+[快步跑](http://www.don1don.com/archives/59584/%E8%80%90%E5%8A%9B%E7%B6%B2%E8%B7%91%E6%AD%A5%E8%A8%93%E7%B7%B4%E8%AA%B2%E8%A1%A8%E2%94%80%E3%80%8C%E5%BF%AB%E6%AD%A5%E8%B7%91%E3%80%8D)
 
 ### 最大心率
 
@@ -28,6 +32,30 @@ http://tw.running.biji.co/index.php?q=news&act=info&id=5643
 +  第6趟800公尺：配速3:00~2:30/公里，接著慢跑恢復400公尺
 +  慢跑恢復800公尺，結束後儲存紀錄並上傳到RunningQuotient。
 回到這一頁選擇檢測紀錄，查看自己的最大心率值，並進行設定。
+
+
+### 8個你一定要搞懂的跑步名詞
+[2017Garmin全馬PB班】 8個你一定要搞懂的跑步名](詞！https://my.garmin.com.tw/blog/archives/11997)
+
++ 【步頻】（Stride frequency）  
+   意指每分鐘步伐的頻率。
++ 【心率區間】  
+   「心率區間」是以測試出「最大心率」與「安靜心率」數值後，所計算出來的區間值。
++ 【儲備心率】（Heart Rate Reserve，簡稱HRR）  
+目標訓練強度心率 = 目標訓練強度百分比 × （最大心率 – 安靜心率）+安靜心率
+
+|强度|儲備心率%|
+|:---|:---|
+|E区 1.0-1.9| 59-74%|
+|M区 2.0-2.9| 74-84%|
+|T区 3.0-3.9| 84-88%|
+|A区 4.0-4.9| 88-95%|
+|I区 5.0-5.9| 95-100%|
+|第6区 R强度| -|
+
+### 参考
++ [徐國峰與科學化訓練](http://rocky549.blogspot.jp/)
++ [即時跑力、競賽跑力與當前跑力的愛恨糾纏](https://www.runningquotient.com/article/single/76)
 
 
 ## フルマラソンに挑戦！
@@ -96,3 +124,6 @@ https://www.toutiao.com/i6495505711865266702/
 + http://www.sc-runner.com/2013/08/jack-daniels-worked-with-nasa-scientist.html youtubeあり
 + https://www.runnersworld.com/workouts/threshold-training-finding-your-vdot?page=2   
   Threshold Training: Finding Your VDOT
+
+## Quotas
++ 「跑步最重要的就是熱忱，若你熱愛跑步，你自然會找出時間練習。」女子馬拉松世界記錄保持人 Paula Radcliffe 曾這麼說過，真是如此，當你的人生多了目標，藉口自然就會少一些。

@@ -4,7 +4,7 @@
 
 世界马拉松大满贯（World Marathon Majors）是由六个全世界规模最大、最知名的马拉松赛事构成的系列赛，包括：东京马拉松、波士顿马拉松、伦敦马拉松、柏林马拉松、芝加哥马拉松以及纽约马拉松。
 
-# 十年計画
+## 0.十年計画
 2027年まで、World Marathon Majorsの六大マラソンを制覇したい。  
 ```
 BQ:
@@ -16,20 +16,22 @@ BQ:
 55-59	      3hrs 40min 00sec	4hrs 10min 00sec
 ```
 
++ 预算 100万JPY 或 6万RBM
 
-# 東京マラソン
+
+## 1. 東京マラソン
 + [公式サイト](http://www.marathon.tokyo/)
 
-## Registration
+### 1.1 Registration
 + Race Day: 2018-2-25(日)
 + Registration date: 2017-8-1 .. 2017-8-31 (抽選)
 
-## ENTRY FEE
+### 1.2 ENTRY FEE
 + 国内	10,800円
 +	海外	12,800円
 
 
-## COST
+### 1.3 COST
 + 自由行  
 概算费用：700 RMB
   + 报名费:624 RMB
@@ -40,11 +42,13 @@ BQ:
 + 咕咚报价
   + 2018  慈善报名费 10500 RMB(JPY 180000)。加价率 16.7
 
+### 1.4 参考
 
-# 波士顿马拉松
+
+## 2.波士顿马拉松
 + [公式サイト](http://www.baa.org/)
 
-## Date
+### 2.1 Date
 + Race Day:  2019-04-15(Monday)  
   Patriots’ Day in the Commonwealth of Massachusetts. The 123rd Boston Marathon will be held on Monday, April 15, 2019
 + Registration date: 2018-09-??
@@ -52,7 +56,7 @@ BQ:
 + Qulifying window: 2017-09-16 -- 2018-09-??
   the qualifying window for the 2019 Boston Marathon began on Saturday, September 16, 2017.
 
-## Registration
+### 2.2 Registration
 To register for the Boston Marathon, you will need to provide the following information on the registration form:
 + Your full name
 + Birthdate
@@ -62,13 +66,13 @@ To register for the Boston Marathon, you will need to provide the following info
 + Your credit card information (we accept Visa and Mastercard)
 + Two emergency contact names and phone numbers
 
-## ENTRY FEE
+### 2.3 ENTRY FEE
 The registration fee for the 2018 Boston Marathon is
 + $185.00 (USD) for U.S. residents
 + $250.00 (USD) for international residents.
 This fee is non-refundable, non-transferrable, and may not be deferred to another year.
 
-## COST
+### 2.4 COST
 + 自由行  
 4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
 概算费用：xxxxx RMB
@@ -82,7 +86,7 @@ This fee is non-refundable, non-transferrable, and may not be deferred to anothe
   + 2018  46800RMB/双人间  不含机票及杂费  
         4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 43800RMB($6700)。 加价率 26.7
 
-## BQ
+### 2.5 BQ
 ```
 AGE GROUP	  MEN	              WOMEN
 18-34	      3hrs 05min 00sec	3hrs 35min 00sec
@@ -98,20 +102,20 @@ AGE GROUP	  MEN	              WOMEN
 80 and over	4hrs 55min 00sec	5hrs 25min 00sec
 ```
 
-## Reference
+### 2.6 参考
 +[108跑步故事|王国祥：风雨交加的朝圣之旅](https://mp.weixin.qq.com/s/E-yYaga5eK8OxQmVw7bubA)
 
 
-# 伦敦马拉松
+## 3.伦敦马拉松
 + [公式サイト](https://www.virginmoneylondonmarathon.com/en-gb/)
 
-## Date  
+### 3.1 Date  
 + Race Day: 2018-04-22(SUN)
 + Registration date:  2017-05-01 .. 2017-05-05
   public ballot and Overseas ballot entry. All applicants will hear the outcome of their ballot entry in the first week of October 2017.
   外国人通过Overseas ballot entry报名。
 
-## Good For Age Entry
+### 3.2 Good For Age Entry
 You will be eligible for a Good for Age entry into the 2018 Virgin Money London Marathon if you have run a full marathon in the same time, or faster than, the times listed below since 1 January 2016.
 
 If you have achieved a Good for Age time as listed in the table below, please do not enter the 2018 Virgin Money London Marathon via the public ballot entry system.
@@ -133,13 +137,13 @@ You will need to provide the following:
  - Proof of UK residence – This must be an official document proving your residence in the UK, such as a recent utility bill (within the last three months) or driving license.  
 英国居民才可以利用Good For Age Entry？
 
-## ENTRY FEE
+### 3.3 ENTRY FEE
 Entry Fees	 	
 + UK standard entry: £39
 + Overseas entry :   £80
 
 
-## COST
+### 3.4 COST
 + 自由行  
 4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
 概算费用：xxxxx RMB
@@ -153,11 +157,13 @@ Entry Fees
   + 2018  24888RMB/双人间  不含机票及杂费  
         4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 21088RMB(£2400)。加价率 30
 
+### 3.5 参考
 
-# 柏林马拉松
+
+## 4.柏林马拉松
 + [公式サイト](https://www.bmw-berlin-marathon.com/en/)
 
-## Date & Fees
+### 4.1 Date & Fees
 + Race Day: 2018-9-16(SUN)
 + Registration deadline: 2017-10-18 .. 2017-11-08
   The results of the drawing will be announced by email on November 30 – December 4, 2017.
@@ -167,7 +173,7 @@ Entry Fees
  - Entry Drawing Single Runners
  - Entry Drawing Teams (2-3 participants)
 
-## Fast runners entry
+### 4.2 Fast runners entry
 ```
 Age	    Men     	Women
 18-44	sub 2:45	sub 3:00
@@ -175,7 +181,7 @@ Age	    Men     	Women
 60+		sub 3:25	sub 4:10
 ```
 
-## COST
+### 4.3 COST
 + 自由行  
 4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
 概算费用：10500 RMB
@@ -189,11 +195,14 @@ Age	    Men     	Women
   + 2018  5999RMB/双人间  不含机票及杂费  
         4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 1000RMB(€128)。加价率 1.19
 
+### 4.4 参考
++ [咕咚旅游赛事-2018柏林马拉松](https://race.codoon.com/race/682)
 
-# 芝加哥马拉松
+
+## 5.芝加哥马拉松
 + [公式サイト](https://www.chicagomarathon.com/)
 
-## Date (2018年の場合)
+### 5.1 Date (2018年の場合)
 + Race Day:  2018-10-07(SUN)
 ```
 Grant Park, Chicago
@@ -209,12 +218,12 @@ Grant Park, Chicago
 + Registration date: 2017-11-30 14:00PM (U.S Central Time)
   The application window for the 2018 Bank of America Chicago Marathon closed at 2 p.m. (U.S. Central Time) on Thursday, November 30.
 
-## ENTRY FEE
+### 5.2 ENTRY FEE
 + U.S. residents : $195 (USD)
 + Non-U.S. residents: $220 (USD)
 You will be asked to provide credit card information as a part of the application process. Your credit card will be charged when and if your application is approved or selected through drawing.
 
-## COST
+### 5.3 COST
 + 自由行  
 4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
 概算费用：xxxxx RMB
@@ -228,22 +237,25 @@ You will be asked to provide credit card information as a part of the applicatio
     + 2018  10999RMB/双人间  不含机票及杂费  
       4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 4850RMB($750)。加价率 3.4
 
-# 纽约马拉松
+### 5.4 参考
+
+
+## 6.纽约马拉松
 + [公式サイト](https://www.tcsnycmarathon.org/)
 
-## Date  
+### 6.1 Date  
 + Race Day: 2018-11-04(SUN)
 + Registration date:  2018-01-15 .. 2018-02-15 . Drawing: 2018-02-28
   The 2018 TCS New York City Marathon application will be open from January 15 to February 15, 2018, with the drawing to follow on February 28, 2018. During the application window, runners can apply for the drawing or claim their guaranteed entry. A full list of entry methods is coming soon.
 
-## ENTRY FEE
+### 6.2 ENTRY FEE
 Entry Fees	 	
 + U.S. Residents:
   NYRR Members:  US $255
   Non-Members:   US $295
 + Non-U.S. Residents: US $358
 
-## COST
+### 6.3 COST
 + 自由行  
 4天3晚（or 5天3晚）。周五抵达，周一or周二凌晨离开。  
 概算费用： 11800 RMB
@@ -258,13 +270,16 @@ Entry Fees
     4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 6000RMB($920)。加价率 2.57
 
 
-## Reference
-+[于珈 ： 我的第二次马拉松 — 2017年纽约马拉松](http://yujia.hxwk.org/2017/11/21/%E4%BA%8E%E7%8F%88-%EF%BC%9A-%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%A9%AC%E6%8B%89%E6%9D%BE-2017%E5%B9%B4%E7%BA%BD%E7%BA%A6%E9%A9%AC%E6%8B%89%E6%9D%BE)
+### 6.4 参考
++ [于珈 ： 我的第二次马拉松 — 2017年纽约马拉松](http://yujia.hxwk.org/2017/11/21/%E4%BA%8E%E7%8F%88-%EF%BC%9A-%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%A9%AC%E6%8B%89%E6%9D%BE-2017%E5%B9%B4%E7%BA%BD%E7%BA%A6%E9%A9%AC%E6%8B%89%E6%9D%BE)
+
++ [咕咚旅游赛事-2018纽约马拉松](https://race.codoon.com/race/699#!/offline_race)
 
 
-# 六大马慈善名额
 
-六大马慈善名额的加价倍率比较，参考咕咚2018年的线下赛事报名费折算价格。
+## 7 六大马旅游赛事名额
+
+六大马旅游名额的加价倍率比较，参考咕咚2018年的线下赛事报名费折算价格。
 
 | WMM Name| 2018 Race-Day | Entry Fee | Codoon Conversion Fee| Ratio|
 |:---|:---|:---|:---|:---|
@@ -274,3 +289,10 @@ Entry Fees
 | BMW-BERLIN MARATHON| 9-16(SUN) | EUR 108 | EUR 128| 1.19|
 | Bank of America Chicago Marathon| 10-17(SUN) | USD 220 | USD 750| 3.4|
 | TCS New York City Marathon| 11-4(SUN) | USD 358 | USD 920| 2.57|
+
+## 8 My Challenge
+
+### 8.1 抽选
+
+
+### 8.2 参赛

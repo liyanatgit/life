@@ -17,3 +17,8 @@ http://www8.garmin.com/manuals/webhelp/forerunner230/EN-US/GUID-D6E80F0C-F319-47
 + share the workout json file to friends
 + login to garmin connect using chrome, open garmin share workout
 + select the workout json received from friends, and you will find it is in your menu - training - workouts.
+
+## Garmin Sports
+
+### 如何使用Garmin Sports的速度課表 — 學員篇
+http://my.garmin.com.tw/blog/archives/11774
