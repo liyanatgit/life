@@ -42,7 +42,14 @@ BQ:
 + 咕咚报价
   + 2018  慈善报名费 10500 RMB(JPY 180000)。加价率 16.7
 
-### 1.4 参考
+### 1.4 Entry
++ 2018/08/01 liyanll@gmail.com 910440118@qq.com 2 entries!
+  2019年3月3日（日） 
+    9時05分　車いすマラソン・10kmスタート 
+    9時10分　マラソン・10kmスタート 
+    10時50分　10km競技終了 
+    16時10分　マラソン競技終了
+  2018/9/25、メールにて抽選結果連絡 (両方も落選！）
 
 
 ## 2.波士顿马拉松
@@ -55,6 +62,20 @@ BQ:
   Registration dates for the 2019 Boston Marathon will be announced at a later date on the B.A.A.'s website, www.baa.org.
 + Qulifying window: 2017-09-16 -- 2018-09-??
   the qualifying window for the 2019 Boston Marathon began on Saturday, September 16, 2017.
++ 2012 – NEW REGISTRATION PROCESS
+  In 2012, a “rolling admission” registration process began, allowing the fastest qualifiers to register first. 
+  On the first day of registration, those who were eligible for entry by having met the qualifying standards for their age and gender 
+  group by 20 minutes or more were able to enter. 
+  On the third day, registration opened for those who met their qualifying standards by 10 minutes or more. 
+  On the fifth day, registration opened for those who met their qualifying standards by five minutes or more. 
+  Having not met the field size limit, registration opened to all qualifiers at the beginning of Week Two, 
+  and those who had met the qualifying standards by any amount of time were able to apply for entry.
+ “As the number of qualified runners has increased, combined with greater demand to run the Boston Marathon, 
+ our new registration process enables those who qualify by the greatest amount of time to have the longest period to enter.” 
+  - Tom Grilk, B.A.A. Chief Operating Officer.
+ This was the first year since qualifying standards were introduced that qualified entrants were not accepted. 
+ 3,228 applicants were unable to be accepted due to the large number of eligible qualifiers who submitted an application for entry combined with field size limitations.
+
 
 ### 2.2 Registration
 To register for the Boston Marathon, you will need to provide the following information on the registration form:
@@ -88,6 +109,7 @@ This fee is non-refundable, non-transferrable, and may not be deferred to anothe
 
 ### 2.5 BQ
 ```
+2019まで
 AGE GROUP	  MEN	              WOMEN
 18-34	      3hrs 05min 00sec	3hrs 35min 00sec
 35-39	      3hrs 10min 00sec	3hrs 40min 00sec
@@ -100,9 +122,41 @@ AGE GROUP	  MEN	              WOMEN
 70-74	      4hrs 25min 00sec	4hrs 55min 00sec
 75-79	      4hrs 40min 00sec	5hrs 10min 00sec
 80 and over	4hrs 55min 00sec	5hrs 25min 00sec
+
+2020から
+AGE GROUP	  MEN	              WOMEN
+18-34	      3hrs 00min 00sec	3hrs 30min 00sec
+35-39	      3hrs 05min 00sec	3hrs 35min 00sec
+40-44	      3hrs 10min 00sec	3hrs 40min 00sec
+45-49	      3hrs 20min 00sec	3hrs 50min 00sec
+50-54	      3hrs 25min 00sec	3hrs 55min 00sec
+55-59	      3hrs 35min 00sec	4hrs 05min 00sec
+60-64	      3hrs 50min 00sec	4hrs 20min 00sec
+65-69	      4hrs 05min 00sec	4hrs 35min 00sec
+70-74	      4hrs 20min 00sec	4hrs 50min 00sec
+75-79	      4hrs 35min 00sec	5hrs 05min 00sec
+80 and over	4hrs 50min 00sec	5hrs 20min 00sec
+
 ```
 
-### 2.6 参考
+###2.6 My Entries and Races
+```
+2020-4-20  (50Y)  3:25 (2018/9/15-2019/9
+2021-4-19  (51Y)  3:25 
+2022-4-18  (52Y)  3:25 
+2023-4-17  (53Y)  3:25 
+2024-4-15  (53Y)  3:25 
+2025-4-21  (55Y)  3:35 
+
+2019/3/17 SeoulMarathon 3:17:42 BQ達成！
+
+2020/4/20 Entry
+
+```
+
+
+
+### 2.7 参考
 +[108跑步故事|王国祥：风雨交加的朝圣之旅](https://mp.weixin.qq.com/s/E-yYaga5eK8OxQmVw7bubA)
 
 
@@ -238,6 +292,13 @@ You will be asked to provide credit card information as a part of the applicatio
       4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 4850RMB($750)。加价率 3.4
 
 ### 5.4 参考
+芝马圆梦国一
+https://mp.weixin.qq.com/s/Jo1YrLoJR4UFnKiQ6YER3A
+
+
+### 5.5 My Entries and Races
+#### 5.5.1 2018/11/2 entry  liyanll@g
+    2018/12/11  You will be notified via email of your selection status. Congratulation!
 
 
 ## 6.纽约马拉松
