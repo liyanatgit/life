@@ -23,7 +23,7 @@ BQ:
 + [公式サイト](http://www.marathon.tokyo/)
 
 ### 1.1 Registration
-+ Race Day: 2018-2-25(日)
++ Race Day: 2018-2-25(日)  2019/3/3
 + Registration date: 2017-8-1 .. 2017-8-31 (抽選)
 
 ### 1.2 ENTRY FEE
@@ -164,7 +164,7 @@ AGE GROUP	  MEN	              WOMEN
 + [公式サイト](https://www.virginmoneylondonmarathon.com/en-gb/)
 
 ### 3.1 Date  
-+ Race Day: 2018-04-22(SUN)
++ Race Day: 2018-04-22(SUN), 2019/4/28
 + Registration date:  2017-05-01 .. 2017-05-05
   public ballot and Overseas ballot entry. All applicants will hear the outcome of their ballot entry in the first week of October 2017.
   外国人通过Overseas ballot entry报名。
@@ -211,7 +211,13 @@ Entry Fees
   + 2018  24888RMB/双人间  不含机票及杂费  
         4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 21088RMB(£2400)。加价率 30
 
-### 3.5 参考
+
+### 3.5 Entry
++ 2018/05/01 Entry
+  2018/10/09 メールにて抽選結果連絡(落選！）
+    414,168 hopefuls applied to take part in next year's event and unfortunately you were unsuccessful.
+    
+### 3.6 参考
 
 
 ## 4.柏林马拉松
@@ -249,7 +255,11 @@ Age	    Men     	Women
   + 2018  5999RMB/双人间  不含机票及杂费  
         4天3晚。含报名费，酒店。周五抵达，周一离开。慈善报名费折合 1000RMB(€128)。加价率 1.19
 
-### 4.4 参考
+### 4.4 Entries and Races
++ 2018/03/02 马拉松神器旅游通道报名 2900RMB
+  Result:  3:36:51
+
+### 4.5 参考
 + [咕咚旅游赛事-2018柏林马拉松](https://race.codoon.com/race/682)
 
 
@@ -298,7 +308,8 @@ https://mp.weixin.qq.com/s/Jo1YrLoJR4UFnKiQ6YER3A
 
 ### 5.5 My Entries and Races
 #### 5.5.1 2018/11/2 entry  liyanll@g
-    2018/12/11  You will be notified via email of your selection status. Congratulation!
+    2018/12/11  You will be notified via email of your selection status.
+     Congratulation!
 
 
 ## 6.纽约马拉松
@@ -336,6 +347,10 @@ Entry Fees
 
 + [咕咚旅游赛事-2018纽约马拉松](https://race.codoon.com/race/699#!/offline_race)
 
+### 6.5 My Entries and Races
+## 6.5.1 2018/1/16 entry  
+         2018/3/1  落選メール受信
+## 6.5.2 2019/1  シカゴマラソン当たったため、ByPass 2019
 
 
 ## 7 六大马旅游赛事名额
